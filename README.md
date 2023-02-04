@@ -61,7 +61,7 @@
  - [48. Unvalidated automatic library activation](#Unvalidated-automatic-library-activation)
  - [49. Unrestricted File Upload](#Unrestricted-File-Upload)
  - [50. XML External Entities (XXE)](#XML-External-Entities-(XXE))
- - [51. Denial of Service: ReadLine](#Denial-of-Service:-ReadLine)
+ - [51. Denial of Service: ReadLine](#Denial-of-Service-ReadLine)
  - [52. Allowing Domains or Accounts to Expire](#Allowing-Domains-or-Accounts-to-Expire)
  - [53. Buffer Overflow](#Buffer-Overflow)
  - [54. Business logic vulnerability](#Business-logic-vulnerability)
