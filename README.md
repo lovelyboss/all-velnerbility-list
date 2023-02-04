@@ -1,7 +1,7 @@
 ### all-velnerbility-list
 - [web aplication velnerbility](#web-aplication-velnerbility)
- - 1. [Cross-site Scripting (XSS):-](#web-plication-velnerbility)
-     - [Reflected (XSS)](#XSS-Reflected)
+ - [Cross-site Scripting (XSS):-](#web-plication-velnerbility)
+ - [Reflected (XSS)](#XSS-Reflected)
   
 
 
