@@ -1,5 +1,5 @@
 ### All-Velnerbility-List
-- [# Web Aplication Velnerbility](#Web-Aplication-Velnerbility)
+- [ Web Aplication Velnerbility](#Web-Aplication-Velnerbility)
  - [1. Cross-Site Scripting (XSS)](#Web-Plication-Velnerbility)
    - [Reflected (XSS)](#XSS-Reflected)
    - [Storad (XSS)](#Stored-Sross-Site-Scripting)
