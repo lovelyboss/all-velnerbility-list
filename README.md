@@ -144,7 +144,7 @@
   - [Link 1.](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html)
   - DOM Based Cross Site Scripting (XSS)
   - [Link 1.](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/11-Client_Side_Testing/01-Testing_for_DOM-based_Cross_Site_Scripting.html)
-- 2. SQL Injection (SQLI)
+- 2.SQL Injection (SQLI)
 - [Link 1.](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
    - [Classic SQL Injection](#Classic-SQL-Injection)
      - [Error Based SQLI](#Error-based-SQL-Injection)
@@ -159,14 +159,14 @@
  - [5. Remote File Inclusion (RFI)](#Remote-File-Inclusion-(RFI))
  - [6. Local File Inclusion (LFI)](#Local-File-Inclusion-(LFI))
  - [7. Remote Code Execution (RCE)](#Remote-Code-Execution-(RCE))
- - 8. Carriage Return and Line Feed (CRLF) Injection
+ - 8.Carriage Return and Line Feed (CRLF) Injection
  - [Link 1.](https://owasp.org/www-community/vulnerabilities/CRLF_Injection)
  - [Link 2.](https://www.veracode.com/security/crlf-injection)
- - 9. Lightweight Directory Access Protocol (LDAP) injection
+ - 9.Lightweight Directory Access Protocol (LDAP) injection
  - [Link 1.](https://www.techtarget.com/searchsoftwarequality/definition/LDAP-injection)
  - [Link 2.](https://www.invicti.com/blog/web-security/ldap-injection-how-to-prevent)
  - [Link 3.](https://www.synopsys.com/glossary/what-is-ldap-injection.html)
- - 10. Failure to restrict URL Access
+ - 10.Failure to restrict URL Access
  - [Link 1.](https://www.veracode.com/security/failure-restrict-url-access)
  - [Link 2.](https://www.rapid7.com/db/vulnerabilities/spider-restrict-url-access)
  - [Link 3.](https://resources.infosecinstitute.com/topic/owasp-url-access)
