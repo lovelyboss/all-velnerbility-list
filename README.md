@@ -1,6 +1,6 @@
 ### all-velnerbility-list
 - [# web aplication velnerbility](#web-aplication-velnerbility)
- - [Cross-site Scripting (XSS)](#web-plication-velnerbility)
+ - [1. Cross-site Scripting (XSS)](#web-plication-velnerbility)
    - [Reflected (XSS)](#XSS-Reflected)
    - [DOM based (XSS)](#Dom-based-(XSS))
   
