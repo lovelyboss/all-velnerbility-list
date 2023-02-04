@@ -2,6 +2,7 @@
 - [# web aplication velnerbility](#web-aplication-velnerbility)
  - [Cross-site Scripting (XSS)](#web-plication-velnerbility)
    - [Reflected (XSS)](#XSS-Reflected)
+   - [DOM based (XSS)](#Dom-based-(XSS))
   
 
 
