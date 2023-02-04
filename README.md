@@ -1,8 +1,8 @@
 ### all-velnerbility-list
 - [web aplication velnerbility](#web-aplication-velnerbility)
  - 1. Cross-site Scripting (XSS):-
-   - [Reflected (XSS)](#XSS Reflected)
-   -  
+ - [Reflected (XSS)](#XSS Reflected)
+  
 
 
 
