@@ -1,6 +1,8 @@
 ### all-velnerbility-list
--[web aplication velnerbility](#web-aplication-velnerbility)
- - 1. Cross-site Scripting (XSS): Reflected, Persistent and DOM-based XSS
+- [web aplication velnerbility](#web-aplication-velnerbility)
+ - 1. Cross-site Scripting (XSS):-
+   - [Reflected (XSS)](#XSS Reflected)
+   -  
 
 
 
