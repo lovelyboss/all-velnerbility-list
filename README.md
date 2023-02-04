@@ -12,7 +12,7 @@
      - [Boolean Based SQLI](#Boolean Based SQLI)
      - [Time Based Based SQLI](#Time Based SQLI)
    - [Out-Of-Band SQL Injectin](#Out-Of-Band-SQL-Injection)
- - [3. Cross-Site Request Forgery (CSRF)](Cross-Site-Request-Forgery (CSRF)
+ - [3. Cross-Site Request Forgery (CSRF)](#Cross-Site-Request-Forgery (CSRF)
    
 
 
