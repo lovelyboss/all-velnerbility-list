@@ -13,6 +13,19 @@
      - [Time Based Based SQLI](#Time-Based-SQLI)
    - [Out-Of-Band SQL Injectin](#Out-Of-Band-SQL-Injection)
  - [3. Cross-Site Request Forgery (CSRF)](#Cross-Site-Request-Forgery-(CSRF))
+ - [4. Server Side Request Forgery (SSRF)](#Server-Side-Request-Forgery-(SSRF))
+ - [5. Remote File Inclusion (RFI)](#Remote-File-Inclusion-(RFI))
+ - [6. Local File Inclusion (LFI)](#Local-File-Inclusion-(LFI))
+ - [7. Remote Code Execution (RCE)](#Remote-Code-Execution-(RCE))
+ - [8. Carriage Return and Line Feed (CRLF) Injection](#Carriage-Return-and-Line-Feed-(CRLF)-Injection)
+ - [9. Lightweight Directory Access Protocol (LDAP) injection](#Lightweight-Directory-Access-Protocol-(LDAP)-injection)
+ - [10. Failure to restrict URL Access](#Failure--to-restrict-URL-Access)
+ - [11. Insufficient Transport Layer Protection](#Insufficient-Transport-Layer-Protection)
+ - [12. Unvalidated Redirects and Forwards](#Unvalidated-Redirects-and-Forwards)
+ - [13. Insecure Cryptographic Storage](#Insecure-Cryptographic-Storage)
+ - [14. Insecure direct object references (IDOR)](#Insecure-direct-object-references-(IDOR))
+ - [15. Server-Side Template Injection](#Server-Side-Template-Injection)
+ - [16. DNS Zone Transfer (AXFR Vulnerability)](#DNS-Zone-Transfer-(AXFR Vulnerability))
    
 
 
