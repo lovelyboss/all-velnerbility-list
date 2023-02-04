@@ -144,11 +144,13 @@
   - [Link 1.](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html)
   - DOM Based Cross Site Scripting (XSS)
   - [Link 1.](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/11-Client_Side_Testing/01-Testing_for_DOM-based_Cross_Site_Scripting.html)
-- [2. SQL Injection (SQLI)](#SQL-Injection-(SQLI))
+- [2. SQL Injection (SQLI)]
+- [Link](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
    - [Classic SQL Injection](#Classic-SQL-Injection)
      - [Error Based SQLI](#Error-based-SQL-Injection)
      - [Union Based SQLI](#Union-based-SQL-Injection)
-   - [Blind SQL Injection](#Blind-SQL-Injection)
+   - [Blind SQL Injection]
+   - [Link](https://owasp.org/www-community/attacks/Blind_SQL_Injection)
      - [Boolean Based SQLI](#Boolean-Based-SQLI)
      - [Time Based Based SQLI](#Time-Based-SQLI)
    - [Out-Of-Band SQL Injectin](#Out-Of-Band-SQL-Injection)
