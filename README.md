@@ -170,8 +170,13 @@
  - [Link 1.](https://www.veracode.com/security/failure-restrict-url-access)
  - [Link 2.](https://www.rapid7.com/db/vulnerabilities/spider-restrict-url-access)
  - [Link 3.](https://resources.infosecinstitute.com/topic/owasp-url-access)
- - [11. Insufficient Transport Layer Protection](#Insufficient-Transport-Layer-Protection)
- - [12. Unvalidated Redirects and Forwards](#Unvalidated-Redirects-and-Forwards)
+ - 11._Insufficient Transport Layer Protection
+ - [Link](https://www.veracode.com/security/insufficient-transport-layer-protection#:~:text=Insufficient%20Transport%20Layer%20Protection%20is,data%20and%20session%20IDs%20exposed.)
+ - [Link 2.](https://www.securecodewarrior.com/article/coders-conquer-security-infrastructure-as-code-series-insufficient-transport-layer-protection)
+ - [Link 3.](https://owasp.org/www-project-mobile-top-10/2014-risks/m3-insufficient-transport-layer-protection)
+ - 12._Unvalidated Redirects and Forwards
+ - [Link 1.](https://blog.detectify.com/2016/08/15/owasp-top-10-unvalidated-redirects-and-forwards-10)
+ - [Link 2.](https://infosecwriteups.com/unvalidated-redirects-and-forwards-4cad5eb66b64)
  - [13. Insecure Cryptographic Storage](#Insecure-Cryptographic-Storage)
  - [14. Insecure direct object references (IDOR)](#Insecure-direct-object-references-(IDOR))
  - [15. Server-Side Template Injection](#Server-Side-Template-Injection)
